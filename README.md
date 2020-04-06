@@ -1,8 +1,8 @@
 ## Setup
 
 Copy your own ACCESS_KEY of unsplash account to the Authorization header in the file 'src/api/axiosclient.js'
-#`npm i`
-#`npm start`
+# `npm i`
+# `npm start`
 
 You should be good to go :)
 

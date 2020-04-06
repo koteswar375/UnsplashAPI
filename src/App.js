@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 // import FileBase64 from 'react-file-base64';
-import Search from './Search';
+import Search from './components/Search';
 import axios from './api/axiosclient';
-import Images from './Images';
+import Images from './components/ImageList';
 
 export default class App extends Component {
 

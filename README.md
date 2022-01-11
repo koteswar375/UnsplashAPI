@@ -6,7 +6,7 @@ This project makes use of unsplash API to search for and display images based on
 
 ![logo](https://raw.githubusercontent.com/koteswar375/UnsplashAPI/master/src/logo.jpg)
 
-The ACCESS_KEY can be obtained at https://unsplash.com/developers. Very easy yo register and create an app to get the key.
+The ACCESS_KEY can be obtained at https://unsplash.com/developers. Very easy to register and create an app to get the key.
 
 ## Getting Started with App
 
